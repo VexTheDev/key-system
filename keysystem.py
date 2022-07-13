@@ -1,5 +1,3 @@
-#i want a girlfriend so bad..
-#im so lonely..
 import time
 import random
 import string
